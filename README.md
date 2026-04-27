@@ -4,13 +4,7 @@
 
 ###
 
-<div align="left">
-  <img height="100" src="https://media1.tenor.com/m/-0w55EKXDYMAAAAC/glotis-manny.gif"  />
-</div>
-
-###
-
-<p align="left">Hey, I’m Riccardo 👋<br><br>I’m not a developer — at least, not officially.<br>But lately I’ve been experimenting, learning, and trying to build things that exist somewhere between ideas, curiosity, and code.<br><br>* 🛠️ Building small projects, tools, and random experiments<br>* 🎮 Exploring game development and interactive experiences<br>* 🧠 Learning by doing, breaking things, and fixing them later<br>* 🚀 Turning ideas into something real, one step at a time<br>* ☕ Probably overthinking simple problems in the best possible way<br><br>I’m here to learn, create, and slowly become better at making digital things.</p>
+<h4 align="center">Hey, I’m Riccardo 👋<br><br>I’m not a developer — at least, not officially.<br>But lately I’ve been experimenting, learning, and trying to build things that exist somewhere between ideas, curiosity, and code.<br><br>* 🛠️ Building small projects, tools, and random experiments<br>* 🎮 Exploring game development and interactive experiences<br>* 🧠 Learning by doing, breaking things, and fixing them later<br>* 🚀 Turning ideas into something real, one step at a time<br>* ☕ Probably overthinking simple problems in the best possible way<br><br>I’m here to learn, create, and slowly become better at making digital things.<br><br>Contact me: riccardobramante25@gmail.com</h4>
 
 ###
 
@@ -37,9 +31,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/riccardobramante/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://ko-fi.com/riccardobramante" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
