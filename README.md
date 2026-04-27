@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hey, I’m Riccardo 👋<br><br>I’m not a developer — at least, not officially.<br>But lately I’ve been experimenting, learning, and trying to build things that exist somewhere between ideas, curiosity, and code.<br><br>* 🛠️ Building small projects, tools, and random experiments<br>* 🎮 Exploring game development and interactive experiences<br>* 🧠 Learning by doing, breaking things, and fixing them later<br>* 🚀 Turning ideas into something real, one step at a time<br>* ☕ Probably overthinking simple problems in the best possible way<br><br>I’m here to learn, create, and slowly become better at making digital things.<br><br>Contact me: riccardobramante25@gmail.com</h4>
+<h4 align="left">Hey, I’m Riccardo 👋<br><br>I’m not a developer — at least, not officially.<br>But lately I’ve been experimenting, learning, and trying to build things that exist somewhere between ideas, curiosity, and code.<br><br>* 🛠️ Building small projects, tools, and random experiments<br>* 🎮 Exploring game development and interactive experiences<br>* 🧠 Learning by doing, breaking things, and fixing them later<br>* 🚀 Turning ideas into something real, one step at a time<br>* ☕ Probably overthinking simple problems in the best possible way<br><br>I’m here to learn, create, and slowly become better at making digital things.<br><br>Contact me: riccardobramante25@gmail.com</h4>
 
 ###
 
